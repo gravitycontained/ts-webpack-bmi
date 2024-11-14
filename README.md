@@ -1,4 +1,7 @@
-# Typescript Webpack
+# BMI Calculator
+
+![demo](image.png)
+
 Install the packages:
  
 ```
